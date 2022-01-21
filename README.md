@@ -1,5 +1,5 @@
 # Python-tasks
-some programming tasks written on Python
+Some programming tasks written on Python
 
 ("pmi.py")
 Есть два целых числа длиной превосходящие ограничение стандартных числовых типов. Необходимо написать код (на любом удобном языке) по умножению этих чисел.
